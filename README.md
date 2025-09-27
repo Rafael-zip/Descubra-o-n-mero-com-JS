@@ -1,2 +1,2 @@
-# Descubra-o-n-mero-com-JS
+# DescubraNumeroCom-js
 Projeto do curso de logica de programação com JS
